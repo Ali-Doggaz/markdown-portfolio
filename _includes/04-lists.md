@@ -1,4 +1,4 @@
-*Tiramisu
-*Pizza
-*Cheesecake
-*Chicken
+* Tiramisu
+* Pizza
+* Cheesecake
+* Chicken
