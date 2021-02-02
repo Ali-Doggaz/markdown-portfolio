@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Picture of Pikachu](https://assets.stickpng.com/images/580b57fcd9996e24bc43c325.png)
